@@ -8,6 +8,6 @@ Olá, eu sou estudante de engenharia mecatrônica na faculdade federal de Santa 
 - Python
 
 # Imagens
-![Texto Alternativo](https://linkDaimagem.jpg)
+![Texto Alternativo](https://github.com/PHM-araujo/PHM-araujo.github.io/blob/master/assets/ESP32-DEV-KIT-DevKitC-v4-pinout-mischianti-1024x598.jpg)
 
 
